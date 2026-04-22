@@ -17,8 +17,7 @@
 
 ## 1. Програма "Hello World!"
 
-Посилання на зображення: [https://github.com/user-attachments/assets/e9f63ed2-a1ce-438b-9d17-87a6f1e7958c](https://github.com/user-attachments/assets/e9f63ed2-a1ce-438b-9d17-87a6f1e7958c)
-
+<img width="910" height="76" alt="image" src="https://github.com/user-attachments/assets/078288b6-ed68-4445-b6e9-4c8d76e20a0c" />
 
 ## 2. Генерація документації (Javadoc)
 
@@ -26,17 +25,16 @@
 
 ### Процес генерації:
 
-Посилання на зображення: [https://github.com/user-attachments/assets/81de1223-4ddf-4c2c-a938-207b7fa64ca5](https://github.com/user-attachments/assets/81de1223-4ddf-4c2c-a938-207b7fa64ca5)
+<img width="1280" height="616" alt="image" src="https://github.com/user-attachments/assets/9c313307-28e5-4a72-a161-7f0b4f3f5319" />
 
 ### Результат документації:
 
-Посилання на зображення: [https://github.com/user-attachments/assets/dd3f539d-87ee-43d3-88f6-1cc07746fb1c](https://github.com/user-attachments/assets/dd3f539d-87ee-43d3-88f6-1cc07746fb1c)
-
+<img width="1280" height="526" alt="image" src="https://github.com/user-attachments/assets/5930b190-ef43-4b59-a432-d749d70d5daa" />
 
 ## 3. Багатофайлова Java-програма
-Посилання на зображення: [https://github.com/user-attachments/assets/85e34268-a589-4dbb-87f7-1e4de23bdfef](https://github.com/user-attachments/assets/85e34268-a589-4dbb-87f7-1e4de23bdfef)
+<img width="1280" height="113" alt="image" src="https://github.com/user-attachments/assets/786ced5e-622f-469a-a883-47b6e0735c43" />
 
-Посилання на зображення: [https://github.com/user-attachments/assets/fc4f873f-b092-40e8-bb9c-243edfcbfcac](https://github.com/user-attachments/assets/fc4f873f-b092-40e8-bb9c-243edfcbfcac)
+<img width="821" height="284" alt="image" src="https://github.com/user-attachments/assets/5da5306a-3ce5-42ba-b074-a83cc4885c2f" />
 
 Після запуску програми було автоматично створено дві нові папки.
 
